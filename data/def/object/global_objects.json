@@ -1,0 +1,123 @@
+[
+  {
+    "id": 11601,
+    "name": "Pottery (Flax)",
+    "type": 10,
+    "rotation": "SOUTH",
+    "position": {
+      "x": 2736,
+      "y": 3440,
+      "z": 0
+    }
+  },
+  {
+    "id": 4309,
+    "name": "Spinning wheel (Flax)",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2736,
+      "y": 3448,
+      "z": 0
+    }
+  },
+  {
+    "id": 6943,
+    "name": "Bank (mining falador)",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 3044,
+      "y": 9776,
+      "z": 0
+    }
+  },
+  {
+    "id": 6943,
+    "name": "Bank (mining falador)",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 3045,
+      "y": 9776,
+      "z": 0
+    }
+  },
+  {
+    "id": 6943,
+    "name": "Bank (mining falador)",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 3046,
+      "y": 9776,
+      "z": 0
+    }
+  },
+  {
+    "id": 26254,
+    "name": "Donator Deposit (giant mole)",
+    "type": 10,
+    "rotation": "WEST",
+    "position": {
+      "x": 1754,
+      "y": 5187,
+      "z": 0
+    }
+  },
+  {
+    "id": 26254,
+    "name": "Donator Deposit (wyverns)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 3058,
+      "y": 9563,
+      "z": 0
+    }
+  },
+  {
+    "id": 26254,
+    "name": "Donator Deposit (mining varrock)",
+    "type": 10,
+    "rotation": "EAST",
+    "position": {
+      "x": 3290,
+      "y": 3372,
+      "z": 0
+    }
+  },
+  {
+    "id": 26254,
+    "name": "Donator Deposit (fishing)",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2837,
+      "y": 3437,
+      "z": 0
+    }
+  },
+  {
+    "id": 26254,
+    "name": "Donator Deposit (Puro puro)",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2594,
+      "y": 4317,
+      "z": 0
+    }
+  },
+  {
+    "id": 26254,
+    "name": "Donator Deposit (Flax)",
+    "type": 10,
+    "rotation": "NORTH",
+    "position": {
+      "x": 2736,
+      "y": 3444,
+      "z": 0
+    }
+  }
+]
